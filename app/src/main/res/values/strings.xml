@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CustomShade</string>
+    <string name="a11y_desc">স্ক্রিনের উপরের বাম/ডান কোণা থেকে নিচে টানলে কাস্টম নোটিফিকেশন ও কন্ট্রোল প্যানেল দেখায়।</string>
+</resources>
